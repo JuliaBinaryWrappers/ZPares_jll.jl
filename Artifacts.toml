@@ -1,0 +1,459 @@
+[[ZPares]]
+arch = "aarch64"
+git-tree-sha1 = "12c27e22104145102f7dc437b90f98b704a381a0"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[ZPares.download]]
+    sha256 = "201ef4213f53ed50e202f0e449bf7cdec9af0135b5323afb7bd01c7621cef96b"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "aarch64"
+git-tree-sha1 = "cbcd99397c07c8425284372a195b9240ed249199"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "5b05af6a589f67f33df0c9bb9ef80fe09adce077b3953e0af43f130c9e8552df"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "aarch64"
+git-tree-sha1 = "b681a0532151ee8810f3e7ae2d8669ede5fd5554"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "22fced6b450a58ae57b9b838bb405ca38928a1ac06db136be78a15c55d609829"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "aarch64"
+git-tree-sha1 = "44ceeaab24f1fc9a8e88da00fbb9f19684506b21"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "36694e325bf8dd6629787727c5b1f430e1417d453a00ca5baec6b3ac5ca2dd8a"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "aarch64"
+git-tree-sha1 = "1dbe20e0931bf6d0de2b0ecc1f8cfe9ca21eaa1b"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "22b3e442e943de020e4a5de02dc40a7978f812c8b84e4a6e2247b7582c6fbf4a"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "aarch64"
+git-tree-sha1 = "ad6e47c1162e4028d4228ebb874d7b1ba7f093ee"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "4a3e6051bb70ac0207ab25f7c6ee1da61353e01949dc965e00e8587f5c21f6a5"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "aarch64"
+git-tree-sha1 = "6f17c7cc6587e36e433ea9b12ed626c5144fae1d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "c243af65383173d58ad720d5500fec0dfff80ee8f7815c2f0300389845dcfcb0"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ff2e19651fc2053b9fa9cdc697ce82edeabe79f7"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "c8c7a690cfe81dc8652d978b8579997ba541e6a48cd241e5cc765c5919980884"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a5fe0762f4ef7d9db8031bf80677497ab69f6d84"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "b1f83ad9e7eba87d4bb136e41b51b4a4bb7e533ede720104e800df8fe73874bc"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "dbbf91f703bd503a79e2c02cb04f731713404f22"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "2ac79afb16c1132f75306c1ea6f9ade9a592732e1f18a2b7043135340828ddff"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3f716d33b3336fdfad9957864d7ab63bf16cc3ea"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "34bdbe6a7d9c5e08b55b9a2eeb1bdfa06553595e6edbe003e1d05f9653999855"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b7bef4b3d3676525a347914244fb0d03e49d04e6"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "cea05faf793967643fd3027d455f622f0e4c02f14d2022a8eb813996b5aebb57"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fd561ce5db2922ca10806e1abf8849f52590c8f5"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "1cf394ed84822378fe06bacbc588fe4e12f3584f7ce8d0667190a3451e280d95"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "39e5e3e96725131bb4560fd9de6eeb7629349de6"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "8c636e97b903e3a1a43aa073799f0b9bb4a1f74a0e1e4fe27f1c9429aad34497"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "64cc4e6fe729c2e65a0a8f49dc501fb513c4875e"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "da1c73db5325f30099fa75133778187e028969b4913277b7feb46928e113ed21"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6cc4eeb76e2a8213459a590441184e4639becd44"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "d288ad6cbdcdcbe17de4b73be07e0830958cc74dc39f9499f3dc5da15c8cc4af"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2cce37eff6920b26fa58717f128b018860c69617"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "cbd4eeb8efe92c20516e541f2f5c4b39b6a09ab19d49d2c0b1e2287596e7d857"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "44d09176825f93e5a9ac92792abb896261f134bc"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "642a56f5e93b82780c03f29de2ae130ba1317a9899e76176e505608f7737389d"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5dd363f68121f1bf2fa5237bcea98bbab3a7d10b"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "9a0bf5272a680b310f788a4f82c768368421cb834bd381e0afea05a71cbea935"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "i686"
+git-tree-sha1 = "f3a3acb3f5a709b9292afc4e6af42949dd2bd681"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "22b4a518d2cdf891653100463290af9fd1f3d3092092baae2db87c7c3c3fecf9"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "i686"
+git-tree-sha1 = "36dd8135eea1661a01b4a853935fcb38e8dc8efb"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "f049fc11ffce56627e2a16f444cd4b2eb35d28aaa776d745d1a1058da2f8ffdf"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "i686"
+git-tree-sha1 = "41263feff8447ea30d0b8ae745bdc78433dea16c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "6fd8197bd9618ec2ebcc13f8a8543e67cb5478ad8ead69abcc5ce176765b424e"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "i686"
+git-tree-sha1 = "563f143f390df4f29ee01208021e66f9518fc73e"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "cd6218737fc2ef5ac8b5349b5f70894714391837989ae7198398ff3749f53fd4"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.i686-linux-musl-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "i686"
+git-tree-sha1 = "a4db5a741484ac0cf193b12495ac1c5ed856c113"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "e3776ccd0baf1e915df7da449a227b1e2cf962285785e6c7c6cdcdee48c1dfd7"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.i686-linux-musl-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "i686"
+git-tree-sha1 = "3ff1d9cb7b18d22df02460653c03f4412d7249b5"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "3dac2261354326010b8dfb0615a847bc5985f6682c66aa2ca7d778a9c66ca1a4"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.i686-linux-musl-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "i686"
+git-tree-sha1 = "2ce2d53adf527aee733568c98e4a0586e2e02f7b"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[ZPares.download]]
+    sha256 = "a06fc340394bfa2c2103d448a60112038b311a3196403a2117fb515f5540ffb9"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "i686"
+git-tree-sha1 = "ceea4ff2586a61b70c52b296938b1a42e36d48a7"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[ZPares.download]]
+    sha256 = "a231b22fc4b0e53e0682e0e1b093c482ca588cccaa73f02d15966487c98a21d2"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "i686"
+git-tree-sha1 = "c2ef4dd14c627ed21cebf3833ba539e5538879c3"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[ZPares.download]]
+    sha256 = "0395f48a5f2e11296aad7fff1c144b3d1fdafa6d97829ac7b2dd8b99d3e32ef0"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "powerpc64le"
+git-tree-sha1 = "f17ea57d08cf1d9c30d95b973449eeec1c82bb4c"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "291d9acc1183beb586e1645c5b93f8ddaf2873e4cbf4d3b763d38671963e2757"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "powerpc64le"
+git-tree-sha1 = "75576d3e3cdf57cfef0574a6163c8fcc3a398b41"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "35e25fe8694221711f0b0bbe767d2849ee43bddaeb26d2ae0a1d8e36bcac24c1"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "powerpc64le"
+git-tree-sha1 = "e1b93501906c622a0466ca3b9443a19289891984"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "5f02b2b0775b49db8819dcd3337a2307c6425932b18121a313a27a8297b09dd6"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "04a760589104715b3f1bd4c943625ab1e3518941"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[ZPares.download]]
+    sha256 = "84015ee6d139930561a4e86eea7fab983fb62f976b8aa9f48d826a4d2e6e9a17"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "53bd96866a43eab648df822e4f8e8cd083e7fede"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[ZPares.download]]
+    sha256 = "43718f10ca0e5eaa1b1ef5d56095c85c757418f6533e0a72d9ad785cf7c2ad01"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "1037cf040d4f72d22bb4f9fe686a15171e8cb357"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[ZPares.download]]
+    sha256 = "2237c315d447b96a2d4be9488db2335b4b7173c6ff3a51655719c313fca133a2"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "c4d4cf7c80e2051d0e7de894b2287db89baa7952"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "9fe1096bc9ce108e98e67909b37c12e9166a7f6146125b1ac9ea06cfbad01d1b"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "50a5bdf24cdcede86cb27927c64502ced89b2915"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "de6cb62872cb75826e7f994f7a850045f1ddbdf29c5b4b4e1ff380644322d25b"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "711a3ddb9efeaf66659d9379a009c4447a9bffbe"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "bb9aa6581b4b1a7a4e093d4d9eba91f8337a5a68468f8abe7158a16bb26ee5f4"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "af50d28a349a763f7acf94a8fc83358550b3ccf4"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "a8e450d4df67b2a9bf235368b2d539c64655f23e0cba07e92852bb142df46df0"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "08b29a37cf8bd39e232244e4bbcecc650a9cb93b"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "e03ff33b8692a794425e92ee962ff7fe5cfd2ecb6dec65b21a0af04dcf992887"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "56b3bf2a59bae872690623628ddcb9792cfbc5ba"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ZPares.download]]
+    sha256 = "3ddce96bd2fbdb71271865cd6bd24602f8b56f3ceb53d7c4701a6113f6474b5e"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "9afc3e9118ac0b540fb5f0ea7538c2afc0c6d6e3"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[ZPares.download]]
+    sha256 = "48299f5558a6064ca3f2b5ce3d72578110aa66cc629602f4a689aa0f5ce1060b"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "ab415b18483d177dcf1b23244689c251166b9431"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[ZPares.download]]
+    sha256 = "7db8708003aaac2a466b11916712a74e7a96c2384de041ca4c27ff4e01851cc1"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "d89a9b1c60a2287a23e2c8cbaa95aecd54eeee4e"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[ZPares.download]]
+    sha256 = "33089a1774f5b5588c30e53fa0e5316d1da53a6f271139ae6fab1a5f69bca9cf"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "f7a90f17b90757bc941ae4fde565d520abf942c9"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[ZPares.download]]
+    sha256 = "d5963e79e5998f02bd9bf4e17c52073ac6d1cc08ba983629273407b28adfc106"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "82f76ce51c7405e377878fb1b78c061691f0a8c2"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[ZPares.download]]
+    sha256 = "caf990257fd57cc21fb75f71c00161a46d0fe170fe1202fb25399fcd04b00ea5"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[ZPares]]
+arch = "x86_64"
+git-tree-sha1 = "dcacb70934b951829addaccc4ab9fc76fe06f7bf"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[ZPares.download]]
+    sha256 = "48f15c234d0cb3bdd0b2330416447ad65002bbe0c9019da6bf964d174e610bc2"
+    url = "https://github.com/JuliaBinaryWrappers/ZPares_jll.jl/releases/download/ZPares-v0.1.0+0/ZPares.v0.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
